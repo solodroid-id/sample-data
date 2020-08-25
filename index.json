@@ -1,0 +1,21 @@
+{
+	"status": "ok",
+	"ads": {
+		"ad_status": "on",
+		"ad_type": "admob",
+		"admob_publisher_id": "pub-3940256099942544",
+		"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+		"admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+		"fan_banner_unit_id": "243455220090448_245283556574281",
+		"fan_interstitial_unit_id": "243455220090448_264906991278604",
+		"fan_native_unit_id": "243455220090448_264953971273906",
+		"startapp_app_id": 200857567,
+		"interstitial_ad_interval": 3,
+		"native_ad_interval": 20,
+		"native_ad_index": 5,
+		"date_time": "2020-08-20 21:00:29",
+		"youtube_api_key": 0
+	}
+}

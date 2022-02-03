@@ -1,0 +1,111 @@
+{
+	"app": {
+		"status": "1",
+		"ebook_pdf_url": "https://google-developer-training.github.io/android-developer-fundamentals-course-concepts/en/android-developer-fundamentals-course-concepts-en.pdf",
+		"ebook_description": "<p>Android Developer Fundamentals is a training course created by the Google Developer Training team. You learn basic Android programming concepts and build a variety of apps, starting with Hello World and working your way up to apps that use content providers and loaders.</p><p>Android Developer Fundamentals prepares you to take the exam for the Associate Android Developer Certification.</p><p>This course is intended to be taught in a classroom, but all the materials are online, so if you like to learn by yourself, go ahead!</p>",
+		"allow_save_book_in_storage": "true",
+		"swipe_horizontal_reading_book": "true",
+		"show_scroll_handle_reading_book": "true",
+		"custom_table_of_contents": "true"
+	},
+	"notification": {
+		"fcm_notification_topic": "single_ebook_app_topic",
+		"onesignal_app_id": "ea6418da-0935-4d2f-81fb-19cc518258e6"
+	},
+	"url": {
+		"more_apps_url": "https://codecanyon.net/category/mobile/android?sort=date&term=solodroid#content",
+		"privacy_policy_url": "https://sites.google.com/view/blogger-ebook-app-privacy",
+		"redirect_url": ""
+	},
+	"ads": {
+		"ad_status": "1",
+		"ad_type": "admob",
+		"backup_ads": "none",
+		"admob_publisher_id": "pub-3940256099942544",
+		"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+		"admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+		"admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
+		"startapp_app_id": "0",
+		"unity_game_id": "4089993",
+		"unity_banner_placement_id": "banner",
+		"unity_interstitial_placement_id": "video",
+		"applovin_banner_ad_unit_id": "493559dccad317bd",
+		"applovin_interstitial_ad_unit_id": "161f46f466210b6d",
+		"applovin_native_ad_manual_unit_id": "426a0b1bf0f6a092",
+		"mopub_banner_ad_unit_id": "b195f8dd8ded45fe847ad89ed1d016da",
+		"mopub_interstitial_ad_unit_id": "24534e1901884e398f1253216226017e",
+		"interstitial_ad_interval": 3
+	},
+	"table_of_contents": [
+		{
+			"page_title": "List of Contents",
+			"page_number": 2
+		},
+		{
+			"page_title": "Introduction",
+			"page_number": 4
+		},
+		{
+			"page_title": "Create Your First Android App",
+			"page_number": 16
+		},
+		{
+			"page_title": "Understanding Activities and Intents",
+			"page_number": 65
+		},
+		{
+			"page_title": "The Android Studio Debugger",
+			"page_number": 98
+		},
+		{
+			"page_title": "User Input Controls",
+			"page_number": 117
+		},
+		{
+			"page_title": "Drawables, Styles and Themes",
+			"page_number": 210
+		},
+		{
+			"page_title": "Testing the User Interface",
+			"page_number": 259
+		},
+		{
+			"page_title": "AsyncTask and AsynTackLoader",
+			"page_number": 281
+		},
+		{
+			"page_title": "Notifications",
+			"page_number": 306
+		},
+		{
+			"page_title": "Storing Data",
+			"page_number": 326
+		},
+		{
+			"page_title": "SQLite Primer",
+			"page_number": 355
+		},
+		{
+			"page_title": "Share Data Through Content Providers",
+			"page_number": 370
+		},
+		{
+			"page_title": "Loaders",
+			"page_number": 382
+		},
+		{
+			"page_title": "Permisions, Performance and Security",
+			"page_number": 387
+		},
+		{
+			"page_title": "Firebase and AdMob",
+			"page_number": 401
+		},
+		{
+			"page_title": "Publish!",
+			"page_number": 421
+		}
+	]
+}
